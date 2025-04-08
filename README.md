@@ -46,7 +46,7 @@ Ensure you have the following installed:
 Feel free to contribute by creating pull requests. You can improve the model, dataset, or add new features.
 
 ## License
-This project is open-source and available under the MIT License.
+This project is open-source .
 
 ## Contact
 For any issues or suggestions, please open an issue or reach out at arevanth27@gmai.com.
